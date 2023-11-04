@@ -1,3 +1,10 @@
+# Update
+
+- Add the launcher icon to toggle Wifi 
+- Upgrade dependencies
+
+## Original README
+
 *DEPRECATED*: There is now an easier and better way to bring back those buttons: https://www.xda-developers.com/bring-back-wifi-mobile-data-quick-settings-tiles-android-12-adb/
 Just execute in adb shell:
 ```
