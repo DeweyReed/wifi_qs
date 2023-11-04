@@ -1,3 +1,6 @@
+- Add the launcher icon to toggle Wifi 
+- Upgrade dependencies
+
 # WiFi QS
 
 Google has removed *Wi-Fi* from QS in Android 12 replacing it with useless *Internet* button
