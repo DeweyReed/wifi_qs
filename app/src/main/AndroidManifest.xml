@@ -48,6 +48,7 @@
             android:name=".MainActivity"
             android:excludeFromRecents="true"
             android:exported="true"
+            android:label="WiFi Toggle"
             android:theme="@android:style/Theme.NoDisplay">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
