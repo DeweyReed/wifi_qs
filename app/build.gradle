@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'n.eus.wifiqs'
-    compileSdk 33
+    compileSdk 35
 
     defaultConfig {
         applicationId "n.eus.wifiqs"
